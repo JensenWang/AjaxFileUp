@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="AjaxFileUp"
+  id="myeclipse.1464964781773"
+  context-root="/AjaxFileUp"
+  j2ee-spec="5.0"
+  archive="AjaxFileUp.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
